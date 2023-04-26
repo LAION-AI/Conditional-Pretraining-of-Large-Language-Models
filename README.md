@@ -32,3 +32,9 @@ In contrast, conditional pretraining aims to prepend each training example with 
 
 Another significant advantage of conditional pretraining is the transparency of the tags used on documents, which can be easily understood by auditors or end users of the models. At present, the instructions and reward models employed in most LLMs are proprietary and not available for public review. This lack of transparency makes it challenging to comprehend how and why models respond to culturally or politically sensitive topics. Even when there are disagreements among people about how these models should be aligned and what values they should uphold, it is difficult to engage in meaningful discussions or debates on these sensitive topics as long as the values of the organizations developing the LLMs remain concealed or obscured by carefully crafted press releases and position papers.
 
+
+### References
+
+- [Pretraining Language Models with Human Preferences](https://arxiv.org/abs/2302.08582)
+- [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/abs/1909.05858)
+
